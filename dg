@@ -1,0 +1,102 @@
+[33mcommit f79a5f07635aaf3743b37b5a62c444abf328f1bc[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Devops <ravindra.devops@gmail.com>
+Date:   Mon Jun 15 20:26:36 2020 +0530
+
+    test commit
+
+[33mcommit aaefb8e6eb4377a7e18be20323bcc08bbe9e34fe[m
+Author: Devops <ravindra.devops@gmail.com>
+Date:   Mon Jun 15 20:03:10 2020 +0530
+
+    new changes
+
+[33mcommit 84fa6e67b8e5d892d595399c119a87f11e2f734a[m[33m ([m[1;33mtag: v3.0[m[33m, [m[1;33mtag: v2.0[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Devops <ravindra.devops@gmail.com>
+Date:   Mon Jun 15 19:55:30 2020 +0530
+
+    message
+
+[33mcommit 1558cd9e1f21233542cc123254e11e9a8074bdaf[m[33m ([m[1;33mtag: v1.0[m[33m)[m
+Author: CloudDevopsTech <66427314+CloudDevopsTech@users.noreply.github.com>
+Date:   Mon Jun 15 19:45:30 2020 +0530
+
+    Create gitfetchfile
+
+[33mcommit f5330138217c4248d3ad8bfb42c207a43ab942ad[m
+Author: root <root@testserver.com>
+Date:   Fri Jun 12 21:12:48 2020 +0530
+
+    message
+
+[33mcommit 1879b02ff690213f13601d913fad4819c11bd154[m
+Merge: ec0f724 90de7f4
+Author: Devops <ravindra.devops@gmail.com>
+Date:   Thu Jun 11 20:58:40 2020 +0530
+
+    Merge branch 'master' of https://github.com/CloudDevopsTech/Devops
+
+[33mcommit 90de7f4ac9a5d9a3ca31a1b2b7bf55d973804ef4[m
+Author: CloudDevopsTech <66427314+CloudDevopsTech@users.noreply.github.com>
+Date:   Thu Jun 11 20:57:50 2020 +0530
+
+    Update aws
+
+[33mcommit ec0f72471fecd8ec81c62c1281b31d6338a9e468[m
+Author: Devops <ravindra.devops@gmail.com>
+Date:   Thu Jun 11 20:56:51 2020 +0530
+
+    ddd
+
+[33mcommit a29a2c2f1db7268e434c852b3acd5f4df592d856[m
+Author: CloudDevopsTech <66427314+CloudDevopsTech@users.noreply.github.com>
+Date:   Thu Jun 11 20:55:40 2020 +0530
+
+    Create 333334
+
+[33mcommit e3669f56ed877c0d7667e73b77b86cc1691f4551[m
+Author: CloudDevopsTech <66427314+CloudDevopsTech@users.noreply.github.com>
+Date:   Thu Jun 11 20:55:18 2020 +0530
+
+    Create abcdedf11
+
+[33mcommit 66b208b7e958db9d048768713a128b3bc320a135[m
+Author: Devops <ravindra.devops@gmail.com>
+Date:   Thu Jun 11 20:47:58 2020 +0530
+
+    message
+
+[33mcommit 4e265b2631b6f1657336a5e88475562cea671c76[m
+Author: CloudDevopsTech <66427314+CloudDevopsTech@users.noreply.github.com>
+Date:   Thu Jun 11 20:36:43 2020 +0530
+
+    Create test remote file
+
+[33mcommit 386b75bff0c24f183db28ec98db258207e5f70f8[m
+Author: CloudDevopsTech <ravindra.devops@gmail.com>
+Date:   Fri Jun 5 20:57:40 2020 +0530
+
+    meesage
+
+[33mcommit 268779cf5d24fe4ddde158d574ad99f883ff1994[m
+Author: CloudDevopsTech <ravindra.devops@gmail.com>
+Date:   Fri Jun 5 20:09:50 2020 +0530
+
+    hello
+
+[33mcommit b7543f3e8b73c37255e45a5b598d4768b7aa7d48[m
+Author: CloudDevopsTech <ravindra.devops@gmail.com>
+Date:   Thu Jun 4 21:09:26 2020 +0530
+
+    second test files
+
+[33mcommit af3482038f8659fb24848f5ce4e30462515e8dcd[m
+Author: CloudDevopsTech <ravindra.devops@gmail.com>
+Date:   Thu Jun 4 20:49:41 2020 +0530
+
+     test files
+
+[33mcommit f2601cc8d8c50df530f91f14c8c41d44619b7491[m
+Author: CloudDevopsTech <66427314+CloudDevopsTech@users.noreply.github.com>
+Date:   Thu Jun 4 19:47:19 2020 +0530
+
+    Initial commit
